@@ -21,7 +21,7 @@ The project focuses on the design, implementation, and operation of a network of
 - Deployment of the communication infrastructure using WiFi network.
 
 ## Methodology and Evaluation
-The project follows the CDIO methodology, which encompasses project planning, control, teamwork, and documentation. The evaluation process aligns with the assessment criteria established for the degree's Project subjects.
+The project follows a combined approach of CDIO and Scrum methodologies to ensure comprehensive engineering education and effective project management. The CDIO methodology provides a holistic framework for the project, guiding the development process from conception to operation. Then, the Scrum methodology has been adopted for project management, incorporating sprint planning, task management, and iterative development.
 
 ## Getting Started
 To get started with the project, please follow these steps:
