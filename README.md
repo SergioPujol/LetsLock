@@ -29,7 +29,6 @@ To get started with the project, please follow these steps:
 1. Clone the repository to your local machine.
 2. Set up the development environment with Android Studio and Arduino.
 3. Install the required dependencies and libraries.
-4. Follow the documentation and code instructions provided within the repository.
 
 ## Acknowledgements
 We would like to express our gratitude to the course instructors and the university for providing the opportunity to work on this project and gain practical experience in IoT development.
